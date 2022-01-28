@@ -11,5 +11,6 @@ I'm Ian, but I crawl the webs under the name "pixdoet". Don't ask, idk why I cho
 
 # Other things I do:  
 Counter Strike is my favourite game series, although I dislike 1.6, Source and GO are solid games. [Steam profile](https://steamcommunity.com/id/pixdoet)  
+I also upload random stuff to my [YouTube](https://youtube.com/Pixdoet).  
 
 **Thanks for stopping by!**  
