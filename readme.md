@@ -13,6 +13,6 @@ I'm Ian, but I crawl the webs under the name "pixdoet". Don't ask, idk why I cho
 
 # Other things I do:  
 Counter Strike is my favourite game series, and I think Source and GO are solid games. [Steam profile](https://steamcommunity.com/id/pixdoet).  
-I also upload random stuff to my [YouTube](https://youtube.com/Pixdoet).  
+I also upload random stuff to my [YouTube](https://youtube.com/kavcomplete).  
 
 **Thanks for stopping by!**  
