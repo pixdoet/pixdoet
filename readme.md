@@ -3,7 +3,7 @@ I'm Ian, but I crawl the webs under the name "pixdoet". That clicked when I sign
 
 # Projects I'm working on:  
 📹[Crowd Detection System](https://github.com/pixdoet/cd_cam) - System to detect potential crowd crushing cases with pattern recognition  
-📺[2005 YouTube Frontend](https://github.com/pixdoet/yt-2005-watch) - A frontend based on the 2005 YouTube layout. OTW to the "stopped working on" list...  
+📺[3gpipe](https://github.com/cppbwitter/3gpipe) - A frontend based on the 2010 mobile YouTube layout. Forked from [yt-2005-watch](https://github.com/pixdoet/yt-2005-watch) for mobile devices.  
 🤖[Termiddit](https://github.com/pixdoet/termiddit) - Read Reddit from the terminal!
 
 # Somewhat interesting stuff I stopped working on:  
